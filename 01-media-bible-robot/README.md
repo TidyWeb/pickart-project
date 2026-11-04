@@ -46,7 +46,7 @@ Once the robot was posting regularly, early interaction remained limited because
 
 To test how the existing shop responded to paid traffic, I proposed a one-month exploratory Meta campaign with an agreed **£250 budget**. The campaign tested the existing shop, not a deployed redesign. I created Beatles-focused adverts around the group's December 1963 appearance on *Thank Your Lucky Stars*, before their US breakthrough.
 
-A captured reporting window of **5 October–3 November 2026** shows 126,205 Meta accounts reached, 201,038 impressions, 7,509 link clicks and 4,177 recorded landing-page views. The owner reported some attempted purchases but little to no sales uplift. Follow-up checks revealed outdated or broken ecommerce components.
+A captured reporting window of **13 September–31 October 2026** shows 216,692 Meta accounts reached, 404,585 impressions, 21,895 link clicks and 12,319 recorded landing-page views. The owner reported some attempted purchases but little to no sales uplift. Follow-up checks revealed outdated or broken ecommerce components.
 
 The experiment helped persuade the owner to proceed with a website redesign. The proposed redesign experience shows the direction. The next phase is redesign work alongside another Meta campaign. I also observed delivery concentrating on early-performing adverts, while some creative received little exposure. For the next experiment, I plan to separate creative tests more deliberately and compare the ideas rather than assume each advert receives equal exposure.
 

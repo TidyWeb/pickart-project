@@ -2,7 +2,15 @@
 
 ## The question and the offer
 
-I wanted to test a practical question: could story-led Beatles advertising bring interested people to PickArt's existing shop? I proposed a one-month Meta campaign with a **£250 limit** and developed 12 ads in two visual formats. The focus was the owner's exclusive archive of photographs by local photographer Willoughby “Gus” Gullachsen. The prints were offered as numbered, limited-edition ways to own a moment of music history, not as generic band merchandise.
+I was convinced that the website was failing to turn interest in the photographs into sales. The owner felt the site he had paid for was good enough and was reluctant to replace it. Rather than keep arguing the point, I proposed a £250 advertising experiment and offered to put my own money behind the diagnosis.
+
+I would create 12 owner-reviewed Meta ads to bring relevant traffic to the existing website, with a one-month budget limit of **£250**. We agreed on three possible outcomes:
+
+- If traffic rose significantly but sales did not rise in a similar proportion, the owner would agree to a complete redesign.
+- If traffic and sales both rose in line, I would refund the advertising cost.
+- If traffic did not rise, I would cover the campaign cost.
+
+The purpose was to test whether the existing shop could convert incoming interest, not merely whether the ads could attract clicks. The campaign focused on the owner's exclusive archive of photographs by local photographer Willoughby “Gus” Gullachsen. The prints were offered as numbered, limited-edition ways to own a moment of music history, not as generic band merchandise.
 
 One format presented the historical photograph directly. The other showed the same archival material as an imagined framed print in an aspirational room. Both made the story part of the value: a print could be something its owner enjoyed looking at and telling people about.
 
@@ -41,26 +49,26 @@ The complete Facebook post capture shows the storytelling approach in context: c
 
 The campaign objective was Traffic to the website, optimised for landing-page views. I repeatedly paused dominant adverts when they absorbed most of the delivery, because the other creatives were receiving too little spend to give me useful feedback. In a dated 21 September review, two ads accounted for about **98.6% of spend in that selected period**; I paused them so the remaining ten could receive delivery. This was a practical intervention, not an equal-exposure comparison of all 12 ads. For a future test, I would structure creative comparisons more deliberately.
 
-The Meta results capture covers **5 October–3 November 2026**. These figures describe that reporting window, not a campaign-lifetime total.
+Meta's report for **13 September–31 October 2026** records the following results.
 
 | Accounts reached | Impressions | Website link clicks |
 | ---: | ---: | ---: |
-| **126,205** | **201,038** | **7,509** |
+| **216,692** | **404,585** | **21,895** |
 
 | Clicks (all) | CTR (all) | Recorded landing-page views |
 | ---: | ---: | ---: |
-| **7,646** | **3.80%** | **4,177** |
+| **22,126** | **5.47%** | **12,319** |
 
 | Agreed campaign budget | Recorded spend in window | Cost per landing-page view |
 | ---: | ---: | ---: |
-| **£250** | **£88.04** | **£0.02** |
+| **£250** | **£244.97** | **£0.02** |
 
 “Clicks (all)” includes activity beyond website link clicks; a landing-page view is Meta's recorded page-arrival measure. The 2p cost is rounded to the displayed precision.
 
-![Meta Ads Manager results for the 5 October–3 November 2026 reporting window](assets/campaign-results-window.png)
+![Meta Ads Manager results for the 13 September–31 October 2026 reporting window](assets/campaign-results-2026-09-13-to-2026-10-31.png)
 
 *Reporting-window results capture.*
 
-The campaign brought substantial attention and traffic, but the owner reported that sales remained flat. That met the condition of the wager I had proposed: interest increased without a corresponding rise in sales, and the owner accepted the case for changing the website. The results made the buying journey the next business question; the campaign itself did not test a redesigned site.
+The campaign brought substantial traffic while sales remained flat, so I won the wager and the owner accepted the need for a redesign.
 
 [Back to the PickArt project overview](../README.md).

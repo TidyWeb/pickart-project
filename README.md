@@ -48,6 +48,6 @@ The reasoning behind this three-page prototype is outlined in [03 — Website re
 | [02 — Meta ad campaign](02-meta-ad-campaign/README.md) | How would the existing shop respond to an exploratory paid campaign, and what could the journey reveal? | Completed experiment; it brought substantial traffic, while the owner reported little to no sales uplift. It informed the next phase. |
 | [03 — Website redesign](03-website-redesign/README.md) | How might the shop better express the archive's stories and help visitors decide to buy? | A proposed experience is available as a mock-up; redesign delivery and testing remain planned work. |
 
-*The campaign tested the existing website—not the proposed redesign. The captured results cover 5 October–3 November 2026. Follow-up checks highlighted outdated or broken ecommerce components, informing the redesign phase regarding maintainability.* 
+*The campaign tested the existing website—not the proposed redesign. The captured results cover 13 September–31 October 2026. Follow-up checks highlighted outdated or broken ecommerce components, informing the redesign phase regarding maintainability.*
 
 The robot's implementation remains private. This repository presents the public case study and selected evidence; it does not include private application code or operational data.
