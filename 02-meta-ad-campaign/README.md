@@ -1,14 +1,47 @@
 # 02 — Meta ad campaign
 
-## The question
+## The question and the offer
 
-The publishing robot was working, but PickArt's social accounts were still small. I also felt the existing website, while it looked like a competent ecommerce shop, did not yet communicate the distinctive stories and archival value behind its high-end prints. The owner was unsure about a redesign. Rather than ask for a larger commitment on instinct, I proposed a bounded experiment: use Beatles storytelling to bring people to the shop as it already existed and learn from the journey.
+I wanted to test a practical question: could story-led Beatles advertising bring interested people to PickArt's existing shop? I proposed a one-month Meta campaign with a **£250 limit** and developed 12 ads in two visual formats. The focus was the owner's exclusive archive of photographs by local photographer Willoughby “Gus” Gullachsen. The prints were offered as numbered, limited-edition ways to own a moment of music history, not as generic band merchandise.
 
-We agreed a **£250 budget** for a one-month exploratory Meta Ads campaign. The ads centred on the Beatles' December 1963 appearance on *Thank Your Lucky Stars*, before their US breakthrough. I hand-crafted the copy around the moment and its wider story, then used framed-in-room mock-ups to help connect the archive to a prospective buyer's home. The campaign copy credits the photographs to Willoughby “Gus” Gullachsen.
+One format presented the historical photograph directly. The other showed the same archival material as an imagined framed print in an aspirational room. Both made the story part of the value: a print could be something its owner enjoyed looking at and telling people about.
 
-## Results snapshot
+## Own a moment of music history
 
-The figures below are the Meta reporting snapshot for **5 October–3 November 2026**. Each cell is a separate measure from that window.
+The campaign drew on the Beatles' appearance on *Thank Your Lucky Stars*, recorded at Alpha/ATV's Birmingham studios on 15 December 1963. The Merseybeat Special featured four tracks, closing with “She Loves You”, while the band's US breakthrough was still ahead. The group were **appearing live in the studio**—a specific moment behind the print, rather than a generic Beatles image.
+
+The Paul McCartney event photograph shows the direct format. Its story links the image to the young band on the edge of an international breakthrough; the ad directed interested visitors to the corresponding Paul McCartney product page.
+
+## Imagine the print at home
+
+The framed-room images offered another reason to value the same archive: they helped a prospective buyer imagine how a print might sit in a home and reflect personal taste. I thought about several distinct, related interests when shaping stories for these ads:
+
+- **Art and interiors:** a distinctive image, its visual presence and the story an owner could share. The oak-framed George and Ringo hallway is one example.
+- **Vinyl and hi-fi:** records, valve amplifiers and listening systems. Ringo in the listening room connects the print to that environment.
+- **Recording equipment:** microphones, mixing desks, instruments and recording techniques—a narrower interest, not simply another name for collecting records.
+
+I used these interests to shape the stories accompanying the prints. Unusual pressings, recording methods and equipment could connect a photograph with a reader’s own passion for music.
+
+| Event photograph | Framed-print hallway | Listening-room setting |
+| --- | --- | --- |
+| [![Paul McCartney performing with the Beatles](assets/paul-mccartney-event.png)](assets/paul-mccartney-event.png) | [![George and Ringo's photograph displayed in an oak-framed hallway](assets/george-ringo-hallway.png)](assets/george-ringo-hallway.png) | [![Ringo's photograph displayed in a music listening room](assets/ringo-listening-room.png)](assets/ringo-listening-room.png) |
+| The historical moment itself. | A print as part of a distinctive home. | A print in a vinyl and hi-fi setting. |
+
+## An assembled advert
+
+The complete Facebook post capture shows the storytelling approach in context: copy, framed-room image, headline and “Shop now” action appear together. Provenance and limited-edition value support the appeal of the print rather than interrupting the story.
+
+![Complete Facebook post capture showing copy, room image, headline and Shop now action](assets/paul-mccartney-facebook-ad.png)
+
+*Complete Facebook post capture: copy, room image, headline and “Shop now” action.*
+
+[View the George-and-Ringo sponsored desktop-feed preview](assets/george-and-ringo-ad-preview.png).
+
+## Delivery and results
+
+The campaign objective was Traffic to the website, optimised for landing-page views. I repeatedly paused dominant adverts when they absorbed most of the delivery, because the other creatives were receiving too little spend to give me useful feedback. In a dated 21 September review, two ads accounted for about **98.6% of spend in that selected period**; I paused them so the remaining ten could receive delivery. This was a practical intervention, not an equal-exposure comparison of all 12 ads. For a future test, I would structure creative comparisons more deliberately.
+
+The Meta results capture covers **5 October–3 November 2026**. These figures describe that reporting window, not a campaign-lifetime total.
 
 | Accounts reached | Impressions | Website link clicks |
 | ---: | ---: | ---: |
@@ -22,26 +55,12 @@ The figures below are the Meta reporting snapshot for **5 October–3 November 2
 | ---: | ---: | ---: |
 | **£250** | **£88.04** | **£0.02** |
 
-“Clicks (all)” includes activity beyond website link clicks; “landing-page views” is Meta's recorded page-arrival measure. The 2p cost is rounded to the displayed precision. The screenshot records the selected reporting window, not the complete campaign lifetime.
+“Clicks (all)” includes activity beyond website link clicks; a landing-page view is Meta's recorded page-arrival measure. The 2p cost is rounded to the displayed precision.
 
 ![Meta Ads Manager results for the 5 October–3 November 2026 reporting window](assets/campaign-results-window.png)
 
-*Reporting-window results capture; the figures above are transcribed from this view.*
+*Reporting-window results capture.*
 
-## The creative and the journey
+The campaign brought substantial attention and traffic, but the owner reported that sales remained flat. That met the condition of the wager I had proposed: interest increased without a corresponding rise in sales, and the owner accepted the case for changing the website. The results made the buying journey the next business question; the campaign itself did not test a redesigned site.
 
-The campaign let me bring the storytelling approach into paid creative. One Facebook post framed Paul McCartney's early Beatles story around “She Loves You” and a print shown in a room. Another sponsored desktop preview used the George-and-Ringo story of their friendship and placed the print in a home setting.
-
-![Facebook post featuring the Paul McCartney “Your Favourite Music Deserves a Place on the Wall Too” advert](assets/paul-mccartney-facebook-ad.png)
-
-*Facebook post capture showing the Paul McCartney creative and framed-room mock-up.*
-
-![Sponsored desktop-feed preview of the George and Ringo “A Band of Brothers” advert](assets/george-and-ringo-ad-preview.png)
-
-*Sponsored desktop-feed preview of the George-and-Ringo creative.*
-
-The ads brought visitors to the existing shop, but the owner reported attempted purchases with little to no sales uplift. Follow-up investigation found outdated or broken ecommerce components. The experiment helped make the case for improving the buying journey, rather than simply sending more traffic to it.
-
-The campaign tested the original shop, not the proposed redesign. A further Meta campaign is planned alongside redesign work. The next phase is the redesign experience that grew out of this work: [03 — Website redesign](../03-website-redesign/README.md).
-
-One campaign lesson was about how delivery unfolded. Early-performing creative received much of the exposure, while some alternatives had little opportunity to be compared. For a future experiment, I plan to separate creative tests more deliberately so the comparison answers a clearer question.
+[Back to the PickArt project overview](../README.md).
