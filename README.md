@@ -9,10 +9,10 @@ I researched what the market for exclusive high end archival prints in this mark
 Consumer goods tend to obey MOSCOW rules:
 Let's look at householders.
 
-    MUST HAVES:    A refrigerator, a cooker.
-    SHOULD HAVES:  A dish-washer, a laundry dryer.
-    COULD HAVES:   A fine vase, or a piece of fine art for the wall.
-    WON'T HAVE:    Leaky roofs etc.
+- **MUST HAVES:** A refrigerator, a cooker.
+- **SHOULD HAVES:** A dish-washer, a laundry dryer.
+- **COULD HAVES:** A fine vase, or a piece of fine art for the wall.
+- **WON'T HAVE:** Leaky roofs etc.
 
 I persuaded him that his offer fell into the 'Could Have' category.  It was a luxury buy.  It could not be advertised as if it was a refrigerator.  It had to differentiate itself as, exclusive, limited, rare, very high quality, a way to display taste, and that every print had to be accompanied by a story.  The story is vital because people who have nice things that people tend to comment on when invited into their homes, love telling you all about them.  It gives unlimited extra pleasure on top of the simple joy of ownership.  
 I know this from personal experience as the client loves doing this very thing.
