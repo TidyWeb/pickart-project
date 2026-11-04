@@ -17,23 +17,37 @@ These published posts show two different angles: an anniversary-led story and a 
 
 ## How selection works
 
-The system checks the event calendar first. Events can include an artist's birthday, date of death, first album release, first hit single or another anniversary. A matching event guides the choice of artist and related content. If no event matches, the system uses an evergreen route to select audience-specific material.
+The system checks the event calendar first. Events can include an artist's birthday, date of death, first album release, first hit single or another anniversary. A matching event guides the choice of artist and related content. If no event matches, a carousel fallback chooses an eligible artist and uses evergreen content linked to them.
 
 | Route | Content selected |
 | --- | --- |
 | Matching event | Related event-led artist content |
-| No matching event | Evergreen content for the intended audience |
+| No matching event | Evergreen content linked to an eligible artist |
 
-Evergreen material can cover recording techniques, equipment and how songs were made; unusual or amusing facts; personal biography; or décor ideas that connect a print with a room and give its owner a story to share. Different posts can take different angles.
+To make posts interesting to more than one kind of reader, I built artist-linked content libraries around three sets of interests:
 
-I built Python programs that run on Google Cloud Run and draw on an image library, event calendar and multiple structured content databases. Both selection routes lead to publishing through Publer, which passes posts to Facebook and Instagram. My work included the structured inputs, selection and fallback rules, audience-aware editorial approach, cloud integration and practical operation.
+| Audience | Material | Why it matters |
+| --- | --- | --- |
+| Vinyl collectors, audiophiles and recording enthusiasts | Recording and mixing techniques, mixing desks, microphones, instruments, how songs were made and unusual vinyl pressings | Adds depth and knowledge to the story behind an artist and print. |
+| Music fans | Unusual or amusing artist and band factoids, interactions and biography | Gives each post a memorable human story. |
+| People choosing fine art for their homes | Interior and décor ideas, plus the story behind a photograph | Makes a print a distinctive conversation piece the owner can talk about—not just something to match a wall. |
+
+The carousel favours less-used eligible artists and checks recent and same-day selections to keep posts varied.
+
+Python programs run on Google Cloud Run and draw on an image library, an event calendar and linked CSV content files. Both selection routes lead to publishing through Publer, which passes posts to Facebook and Instagram. I designed the content structure, event and fallback rules, audience-aware editorial approach, cloud integration and practical operation.
 
 ## Operating record
 
-As its builder, on 4 November 2026 I reported **1,288 posts since launch and no failures I had experienced**. This is my operating record, not an independent uptime audit.
+Since regular publishing began in **May 2026**, the robot has published **1,288 posts** (as of 4 November 2026). It has experienced **zero failures**.
 
 ## The wider PickArt project
 
-I also worked on a separate [website redesign](https://github.com/TidyWeb/pickart-web-redesign), with a [proposed redesign experience](https://tidyweb.github.io/pickart-web-redesign/pickart_home.html). A separate Meta Ads exploration tested how the existing site responded to paid traffic and informed the redesign work. Paid advertising is distinct from the publishing system.
+Once the robot was posting regularly, early interaction remained limited because the social accounts had few followers. I also felt that, although the existing site looked like a competent ecommerce shop, it did not convey what made each high-end print distinctive. The owner was initially unsure about a redesign.
+
+To test how the existing shop responded to paid traffic, I proposed a one-month exploratory Meta campaign with an agreed **£250 budget**. The campaign tested the existing shop, not a deployed redesign. I created Beatles-focused adverts around the group's December 1963 appearance on *Thank Your Lucky Stars*, before their US breakthrough.
+
+A captured reporting window of **5 October–3 November 2026** shows 126,205 Meta accounts reached, 201,038 impressions, 7,509 link clicks and 4,177 recorded landing-page views. The owner reported some attempted purchases but little to no sales uplift. Follow-up checks revealed outdated or broken ecommerce components.
+
+The experiment helped persuade the owner to proceed with a [website redesign](https://github.com/TidyWeb/pickart-web-redesign). The [proposed redesign experience](https://tidyweb.github.io/pickart-web-redesign/pickart_home.html) shows the direction. The next phase is redesign work alongside another Meta campaign. I also observed delivery concentrating on early-performing adverts, while some creative received little exposure. For the next experiment, I plan to separate creative tests more deliberately and compare the ideas rather than assume each advert receives equal exposure.
 
 *The implementation remains private. Screenshots are included as evidence for this case study, not with permission to reuse them. The photography and prints are not claimed as my work.*
