@@ -32,11 +32,13 @@ You can read about the Meta ad campaign here: [02 — Meta ad campaign](02-meta-
 
 So that leaves the complete and total website re-design upon which I am embarked now.  I made a mock-up webpage with three operational pages that display the key fundamentals of my approach.
 
-      *Exclusivity - rare - highest quality - limited ownership possibilities - get as far away from looking like a white goods site as possible.
-      *Beatles Focus - one page devoted to his archival 'Thank Your Lucky Stars' collection - of which he owns thousands of remarkable historical images.
-      *A framing gallery - a new feature that allowed users to see their chosen print, in a variety of frame and matting styles, with the ability to print out the spec of their             favourite framing/mounting options.
+- **Exclusivity:** Present the prints as rare, high-quality pieces with limited availability, well away from the look of a white-goods site.
+- **Beatles focus:** Give one page to PickArt's exclusive archive from the Beatles' December 1963 *Thank Your Lucky Stars* appearance, with thousands of remarkable historical images.
+- **Framing gallery:** Let visitors view a chosen print in different frame and matting styles, then print a specification of their preferred option.
 
-The reasoning behind this three page example prototype is outlined in [03 — Website redesign](03-website-redesign/README.md)
+Together, these three pages turn the argument into something the owner can try. They show how the archive’s rarity, the stories behind the photographs and the experience of choosing a print could work together—giving visitors something they would value owning and talking about. The prototype provides a practical basis for feedback before building the full shop.
+
+The reasoning behind this three-page prototype is outlined in [03 — Website redesign](03-website-redesign/README.md).
 
 
 
