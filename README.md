@@ -14,7 +14,7 @@ Let's look at householders.
     COULD HAVES:   A fine vase, or a piece of fine art for the wall.
     WON'T HAVE:    Leaky roofs etc.
 
-I persuaded him that his offer fell into the 'Could Have' category.  It was a luxury buy.  It could not be advertised as if it was a refrigerator.  It had to differentiate itself as, exclusive, limited, rare, very high quality, a way to display taste, and that every print had to be accompanied by a story.  The story is vital because people who have nice things that people tend to comment on when invited into their houses, love telling you all about them.  It gives unlimited extra pleasure on top of the simple joy of ownership.  
+I persuaded him that his offer fell into the 'Could Have' category.  It was a luxury buy.  It could not be advertised as if it was a refrigerator.  It had to differentiate itself as, exclusive, limited, rare, very high quality, a way to display taste, and that every print had to be accompanied by a story.  The story is vital because people who have nice things that people tend to comment on when invited into their homes, love telling you all about them.  It gives unlimited extra pleasure on top of the simple joy of ownership.  
 I know this from personal experience as the client loves doing this very thing.
 
 The client understood my logic, and agreed, but he was wedded to the notion that he had paid a considerable sum for his website and he thought it looked good, so my inital suggestion to redesign the entire site from the perspective of a curated rare collectors items was denied.
