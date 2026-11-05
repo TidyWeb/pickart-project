@@ -89,6 +89,6 @@ This is the proposal I sent to the owner. It brings together three working pages
 
 This is a live prototype, not a replacement shop ready to launch. It makes the intended buying experience tangible and open to discussion before full production.
 
-This proposal is part of the wider PickArt project.
+## [The proposed redesign live site](https://tidyweb.github.io/pickart-web-redesign/pickart_home.html)
 
-## [Proposed redesign](https://tidyweb.github.io/pickart-web-redesign/pickart_home.html)
+*This work sits within the wider PickArt project.*
