@@ -54,7 +54,7 @@ The site listed products, but did not yet help a visitor value a particular mome
 
 ### Homepage: let the photograph lead
 
-![Proposed homepage opening with a black-and-white Paul McCartney photograph](assets/phase3-redesign-home-opening-2026-11-05.jpg)
+![Proposed homepage opening with a black-and-white Paul McCartney photograph](assets/proposal-home-crop.png)
 
 The reworked homepage opens with the photograph itself, then connects it to numbered editions, provenance and the wider archive. A clear headline and restrained visual system give the image room and make its context easier to follow. The intended buyer benefit is simple: see what the collection offers, understand why it is distinctive, and begin to imagine owning a print.
 
@@ -62,7 +62,7 @@ I reprocessed many of the presentation images to remove the reflections and band
 
 ### Thank Your Lucky Stars: make one moment legible
 
-![Proposed Thank Your Lucky Stars page opening with the Beatles performing and its 1963 Birmingham story](assets/phase3-redesign-tyls-story-opening-2026-11-05.jpg)
+![Proposed Thank Your Lucky Stars page opening with the Beatles performing and its 1963 Birmingham story](assets/proposed-tyls-crop.png)
 
 The next page gives the photographs a specific entry point: the Beatles performing “She Loves You” at the Merseybeat Special in Birmingham on 15 December 1963. It connects the event and its context to the official photographer, Willoughby “Gus” Gullachsen, and his private archive. The design aims to help a fan recognise why these frames matter and what makes the collection distinctive.
 
@@ -72,7 +72,7 @@ These are intended design responses, not measured conversion effects.
 
 The client was based in a gallery showroom that also offered framing, but that service became a nightmare for staff. No matter how well packed, glass can break in courier transit and damage the print it is meant to protect. Frame choices are personal too: and choices made online then delivered can fail to fit the environment they arrive in.  The right combination depends on a buyer’s room, wall and taste. I turned those constraints into a positive policy: **“We don’t frame. Deliberately.”**
 
-![Framing Room preview showing a full David Bowie print with wall and frame choices](assets/phase3-redesign-framing-tool-2026-11-05.jpg)
+![Framing Room preview showing a full David Bowie print with wall and frame choices](assets/proposal-framing-crop.png)
 
 The framing tool is a separate way to help someone picture a print at home. It brings together print selection, wall and frame choices, profiles, widths and mount options, then offers a printable Framer’s Brief to take to a local framer. The work of choosing a frame remains with the buyer and their framer.
 
