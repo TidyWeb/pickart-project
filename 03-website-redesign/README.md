@@ -76,6 +76,13 @@ Glass can break in courier transit and damage the print it is meant to protect. 
 
 The framing tool is a separate way to help someone picture a print at home. It brings together print selection, wall and frame choices, profiles, widths and mount options, then offers a printable Framer’s Brief to take to a local framer. The work of choosing a frame remains with the buyer and their framer.
 
+## Turning interest into ownership
+
+- **The campaign generated 21,895 website link clicks.** It demonstrated substantial interest; the commercial task is to convert some of that interest into print sales.
+- **The existing shop was not making the most of that opportunity.** The owner reported little or no sales uplift. Catalogue-style presentation undersold the photographs’ stories and exclusivity, while reported checkout problems added a separate barrier to purchase.
+- **The redesign gives buyers stronger reasons to act:** impactful photography, clear provenance, the story behind each moment, and help imagining the print in their home. Repairing the ecommerce backend must support that journey.
+- **The next step is to put the improved experience into use and measure sales.** The campaign attracted attention; the website now needs to turn that attention into ownership.
+
 ## Three working proposal pages
 
 These are three owner-facing prototype pages; other navigation destinations are outside the preview. This is not a launched replacement shop. The proposal makes the intended buying experience tangible and discussable before production.
