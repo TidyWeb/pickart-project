@@ -32,6 +32,14 @@ To make posts interesting to more than one kind of reader, I built artist-linked
 | Music fans | Unusual or amusing artist and band factoids, interactions and biography | Gives each post a memorable human story. |
 | People choosing fine art for their homes | Interior and décor ideas, plus the story behind a photograph | Makes a print a distinctive conversation piece the owner can talk about—not just something to match a wall. |
 
+<br><br>
+
+![Publer media library for PickArt's social posts](../assets/evidence/publer-media-library-2026-11-04.png)
+
+*PickArt's media library in Publer.*
+
+<br><br>
+
 The carousel favours less-used eligible artists and checks recent and same-day selections to keep posts varied.
 
 Python programs run on Google Cloud Run and draw on an image library, an event calendar and linked CSV content files. Both selection routes lead to publishing through Publer, which passes posts to Facebook and Instagram. I designed the content structure, event and fallback rules, audience-aware editorial approach, cloud integration and practical operation.
