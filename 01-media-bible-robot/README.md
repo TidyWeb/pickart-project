@@ -62,13 +62,11 @@ I promised the client that the robot would be inexpensive to run. I created a de
 
 On **5 November 2026**, Google Cloud forecast **£0.42** for November. At the current level of activity, that suggests a running cost of roughly **40–45p per month**. The client was delighted, especially compared with the much higher monthly fees quoted by other providers for ongoing social media work.
 
-<br>
 
 ![Google Cloud Billing overview for Media-Bible-Pilot showing a £0.42 forecast for November](../assets/evidence/google-cloud-billing-overview-2026-11-05.png)
 
 *Google Cloud Billing snapshot captured on 5 November 2026: £0.03 in month-to-date costs, offset by £0.03 in savings, with a £0.42 forecast for November.*
 
-<br>
 
 ## The wider PickArt project
 
