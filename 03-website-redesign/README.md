@@ -85,12 +85,10 @@ The framing tool is a separate way to help someone picture a print at home. It b
 
 ## Three working proposal pages
 
-These are three owner-facing prototype pages; other navigation destinations are outside the preview. This is not a launched replacement shop. The proposal makes the intended buying experience tangible and discussable before production.
+This is the proposal I sent to the owner. It brings together three working pages—Home, the Thank Your Lucky Stars collection and the Framing Gallery—to show the overall change in direction, with the framing gallery as a significant new element. The remaining navigation items appear in situ as placeholders; they do not lead to working pages.
 
-| Page | Open the working proposal |
-| --- | --- |
-| Homepage | [PickArt Archive homepage](https://tidyweb.github.io/pickart-web-redesign/pickart_home.html) |
-| Thank Your Lucky Stars | [TYLS collection page](https://tidyweb.github.io/pickart-web-redesign/pickart_tyls.html) |
-| Framing Gallery | [Framing tool](https://tidyweb.github.io/pickart-web-redesign/pickart_framing.html) |
+This is a live prototype, not a replacement shop ready to launch. It makes the intended buying experience tangible and open to discussion before full production.
 
-This work sits within the wider [PickArt project](../README.md).
+This proposal is part of the wider PickArt project.
+
+## [Proposed redesign](https://tidyweb.github.io/pickart-web-redesign/pickart_home.html)
