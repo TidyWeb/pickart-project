@@ -46,7 +46,31 @@ Python programs run on Google Cloud Run and draw on an image library, an event c
 
 ## Operating record
 
-Since regular publishing began in **May 2026**, the robot has published **1,288 posts** (as of 4 November 2026). It has experienced **zero failures**.
+Since regular publishing began in **May 2026**, the robot has published **2,838 posts** across PickArt's Facebook and Instagram accounts, with **zero recorded failures**. Publer's member overview records reach of **7,918** and **331 engagements**. A separate account overview shows **335K reach** and follower growth from **1 to 111**—a gain of **110 followers, an 11,000% increase**.
+
+Publer's post insights show reach rates from **34.48% to 93.1%** for several posts. A Beatles post recorded a standout **643.1% reach rate**. Its strong response prompted me to test Beatles material in a Meta advertising campaign, described below.
+
+<br>
+
+![Publer member overview showing 2,838 posts, reach of 7,918 and 331 engagements; member name obscured](../assets/evidence/publer-members-overview-redacted-2026-11-05.png)
+
+*Publer member overview captured on 5 November 2026.*
+
+<br>
+
+## Operating cost
+
+I promised the client that the robot would be inexpensive to run. I created a dedicated Google identity and Google Cloud account for the project, which provided a **$300 promotional credit**. The credit expired unused. Since May 2026, Google Cloud charges for the project have totalled just over **£1**.
+
+On **5 November 2026**, Google Cloud forecast **£0.42** for November. At the current level of activity, that suggests a running cost of roughly **40–45p per month**. The client was delighted, especially compared with the much higher monthly fees quoted by other providers for ongoing social media work.
+
+<br>
+
+![Google Cloud Billing overview for Media-Bible-Pilot showing a £0.42 forecast for November](../assets/evidence/google-cloud-billing-overview-2026-11-05.png)
+
+*Google Cloud Billing snapshot captured on 5 November 2026: £0.03 in month-to-date costs, offset by £0.03 in savings, with a £0.42 forecast for November.*
+
+<br>
 
 ## The wider PickArt project
 
