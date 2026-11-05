@@ -23,6 +23,10 @@ The client understood my logic, and agreed, but he was wedded to the notion that
 
 I suggested he engage in social media.  He wanted me to do that for him, but I could not commit the time required, so I said I would build him a social media posting robot, that would post automatically on his websites behalf.  He did not think it could be done, so I explained my plan, how it would work, and the minimal cost it would take.  He agreed so I built the Media Bible project.
 
+![Publer overview showing 111 followers (+110), 335K reach and 6.72% engagement rate](assets/evidence/publer-overview-2026-11-05.png)
+
+*Publer overview captured on 5 November 2026: since the Media Bible robot began posting, the account gained 110 followers and reached 335K people, with a 6.72% engagement rate.*
+
 The robot started in May 2026, and has posted up to 18 times per day across Meta platforms, establishing a brand identity.  It has not failed yet.  You can read about the process in  [01 — Media Bible robot](01-media-bible-robot/README.md).
 
 While acknowledging the robot was working, his website was still struggling to close sales.  I repeated my analysis that the website was wrong for what he was offering.  Again he disagreed, it looked fine to him.  So knowing him well enought to estimate the likely success of my proposal - I proposed to him a wager.
