@@ -4,6 +4,8 @@
 
 PickArt (pickart.co.uk) wants to be a high-end, music-photography, limited-edition print shop. I know the owner from mutual work with the Birmingham band UB40, and he asked me for my advice regarding his business idea because the website he had paid to have built, had been lolling in the doldrums for 5 years.
 
+![Screenshot of the existing PickArt homepage](assets/evidence/pickart-existing-homepage.png)
+
 I researched what the market for exclusive high end archival prints in this market area was like.  I looked at what other people were doing.  My conclusion was his website was not fit for purpose because it had been built to a standard e-commerce pattern. A template in effect.  This could never work for his offer, so I treated him as a client and I explained it like this.
 
 Consumer goods tend to obey MOSCOW rules:
