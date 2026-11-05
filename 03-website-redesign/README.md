@@ -70,7 +70,7 @@ These are intended design responses, not measured conversion effects.
 
 ## A separate customer problem: framing
 
-Glass can break in courier transit and damage the print it is meant to protect. Frame choices are personal too: the right combination depends on a buyer’s room, wall and taste. I turned those constraints into a positive policy: **“We don’t frame. Deliberately.”**
+The client was based in a gallery showroom that also offered framing, but that service became a nightmare for staff. No matter how well packed, glass can break in courier transit and damage the print it is meant to protect. Frame choices are personal too: and choices made online then delivered can fail to fit the environment they arrive in.  The right combination depends on a buyer’s room, wall and taste. I turned those constraints into a positive policy: **“We don’t frame. Deliberately.”**
 
 ![Framing Room preview showing a full David Bowie print with wall and frame choices](assets/phase3-redesign-framing-tool-2026-11-05.jpg)
 
