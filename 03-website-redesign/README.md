@@ -22,7 +22,7 @@ The owner later reported little or no sales uplift. Link clicks are not unique v
 
 **We attracted the interest. Why wasn’t the website closing sales?**
 
-Follow-up checks also highlighted outdated or broken ecommerce components. That was a separate practical barrier: a stronger presentation could not repair an unreliable checkout.
+Follow-up checks also highlighted outdated or broken ecommerce components. That was a separate practical barrier: a stronger presentation could not repair an unreliable checkout.  It was clear that the Ad campaign attracted visitors to the website - and also that the website was not converting those visits into sales.
 
 ## First, the existing site
 
