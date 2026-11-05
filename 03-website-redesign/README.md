@@ -1,68 +1,89 @@
 # 03 — Website redesign: from catalogue to collection
 
-I believed PickArt’s website was presenting rare music photographs as ordinary products. The stories and exclusivity were there, but the presentation was not giving visitors enough reason to want a print. I proposed the campaign experiment to test that diagnosis: could we attract an audience, and would the existing shop turn that interest into sales?
+I believed PickArt’s website was presenting rare music photographs as ordinary products. The owner felt the existing shop was good enough. Rather than keep arguing, I proposed a one-month Meta experiment with a £250 limit and offered to put my own money behind the diagnosis. If traffic rose without sales rising in a similar proportion, he would agree to a complete redesign; if both rose in line, I would refund the advertising cost; if traffic did not rise, I would cover the campaign cost. We agreed on 12 owner-reviewed ads.
 
-The campaign brought substantial traffic, but the owner reported little or no sales uplift. He agreed to a redesign. This phase shows the working proposal I built to make that alternative tangible. [See the campaign experiment](../02-meta-ad-campaign/README.md).
+The campaign focused on PickArt’s exclusive Beatles archive around the group’s 15 December 1963 appearance on *Thank Your Lucky Stars*. The existing shop—not the proposed redesign—was the destination. [See the campaign experiment and its evidence](../02-meta-ad-campaign/README.md).
 
-I wrote the existing Thank Your Lucky Stars copy and product stories, supplying them to the owner and his developer as text. I did not design the existing layout. The comparison below shows why the words needed a visual structure that supported them.
+## What the campaign showed
 
-## Homepage: from category to object
+Meta recorded substantial reach and thousands of landing-page views during this reporting window:
 
-| Existing shop | Proposed archive presentation |
-| --- | --- |
-| ![Existing PickArt homepage opening, led by a camera image](assets/existing-home.png) | ![Proposed homepage archive section with a curated grid of music photographs](assets/proposed-home.jpg) |
-| The opening uses a stock camera image and a broad “eyes of Rock & Roll” invitation. It establishes the subject area, but the first image is not one of the exclusive photographs for sale. | The proposed homepage gives the photographs themselves the space: a curated archive section headed “Half a century of rock, photographed from the pit, the wings and the dressing room.” Consistent image treatment, artist names and edition details make the collection—not generic camera imagery—the focus. |
+| Measure | Reported result |
+| --- | ---: |
+| Reporting window | 13 September–31 October 2026 |
+| Agreed campaign budget | £250 |
+| Spend recorded in the window | £244.97 |
+| Accounts reached | 216,692 |
+| Impressions | 404,585 |
+| Website link clicks | 21,895 |
+| Recorded landing-page views | 12,319 |
 
-The design gives the photographs and their archive context prominence. Charcoal, cream and gold, serif display type, generous image space and quieter navigation give the proposal the feeling of a considered archive rather than a general-purpose catalogue.
+The owner later reported little or no sales uplift. Link clicks are not unique visitors or purchases; landing-page views are Meta’s recorded page-arrival measure. The figures gave me a reason to examine the buying experience, not proof that attention alone guarantees a sale.
 
-## Thank Your Lucky Stars: from background to a particular moment
+**We attracted the interest. Why wasn’t the website closing sales?**
 
-| Existing TYLS page | Proposed TYLS opening |
-| --- | --- |
-| ![Existing Thank Your Lucky Stars page opening](assets/existing-tyls.png) | ![Proposed Thank Your Lucky Stars opening with a clear event headline and concise historical context](assets/proposed-tyls.jpg) |
-| A large star-field banner and prominent heading introduce a long, uniformly bold block before the product grid. The history and photographer information are present, but the opening gives the reader few visual pauses to distinguish the event, its significance and the collection’s provenance. | The Beatles’ Merseybeat Special becomes a specific entry point: 15 December 1963, Alpha Studios in Aston, Birmingham, four songs and the surviving frames. A short narrative hierarchy connects place, date and event to the photographs. |
+Follow-up checks also highlighted outdated or broken ecommerce components. That was a separate practical barrier: a stronger presentation could not repair an unreliable checkout.
 
-The aim is recognition: a visitor who knows and loves this music should feel that the collection shares their interests and understands why these images matter.
+## First, the existing site
 
-## The quiet signals behind a £149 print
+I wrote the existing *Thank Your Lucky Stars* copy and the print stories, supplying them to the owner and developer as text. I did not design or control the existing page layouts. The issue was how the material was presented—not an absence of story or provenance.
 
-I treated the design as a way to answer practical buyer questions, not simply to make pages feel more luxurious.
+### Homepage: a camera before the collection
 
-| Design choice | Intended signal | Buyer question it can help answer |
-| --- | --- | --- |
-| Large photographs with space around them | Confidence in the image as the object | “Can I see what I am considering?” |
-| Restrained palette, serif headlines and editorial hierarchy | A curated archive rather than a crowded commodity listing | “Has this collection been selected and presented with care?” |
-| Edition, embossing, certificate and provenance information | Scarcity, authenticity and attention to the print’s history | “What makes this particular print meaningful?” |
-| Story before the price-led grid | Cultural context and a reason to value the moment | “Why this photograph, and why this moment?” |
-| Aspirational room imagery and framing choices | A sense of ownership, taste and where the work might belong | “How could this live in my space?” |
-| Consistent typography, spacing and finishing | Intentionality across the buying experience | “Does the care shown here extend beyond the photograph?” |
+![Existing PickArt homepage opening, led by a camera image](assets/existing-home.png)
 
-The idea is to connect limited-edition music photography with the knowledge, taste and personal attachment that can make someone want to live with a particular image. These design signals are intended, not measured effects.
+The opening leads with a generic camera image and the broad invitation “the eyes of Rock & Roll”. It establishes a category, but the first image is not one of PickArt’s exclusive photographs for sale. A visitor has to infer why this particular archive—and a premium print from it—is worth owning.
 
-## Presentation is part of the product
+### Thank Your Lucky Stars: a rich story in a dense presentation
 
-Several existing collection prints are photographed through glass; reflections, banding and the phone/photographer silhouette are visible over the Paul McCartney image. That undermines the premium presentation the photographs deserve. I reprocessed many of the presentation images, and the owner later told me he changed the print process to reflect that improved presentation.
+![Existing Thank Your Lucky Stars page with its star-field banner and dense story text](assets/existing-tyls.png)
 
-![Existing PickArt collection page, including product photographs with visible reflections](assets/existing-collection.png)
+The page contains substantial history and photographer information. Its star-field banner and long, uniformly bold blocks give the reader few visual pauses, so the Birmingham event, its significance and the collection’s provenance are harder to distinguish at a glance. The story is there; the hierarchy does not help a buyer find its most compelling details.
 
-## “We don’t frame. Deliberately.”
+### Collection: product imagery carries quality signals
 
-Framing is a reasoned service decision, not a missing feature to conceal. Rob stopped offering framed prints after glass was damaged across courier depots. A ready-made frame may also not suit a customer’s wall or taste. I proposed stating the choice positively: sell the unframed print, leave the customer free to choose, and respect local framers’ expertise.
+![Existing PickArt collection page showing the product grid and photographs](assets/existing-collection.png)
 
-![Proposed framing introduction explaining why PickArt does not frame](assets/framing-introduction.jpg)
+The catalogue presents products and prices competently, but photographs of prints through glass show reflections, banding and a phone or photographer silhouette across the Paul McCartney image. Those distractions compete with the photograph and weaken the premium impression a £149 print needs to earn.
 
-The visualiser lets a visitor choose a print and wall palette, then compare five frame tones, flat or shaped profiles, frame width, and no, window, double, float or raised-float mounts with width and colour. A printable Framer’s Brief carries those choices to a local framer via the browser’s print dialog. It helps someone picture the work at home and communicate a specification while respecting a framer’s judgement.
+## The diagnosis
+
+The site listed products, but did not yet help a visitor value a particular moment in music history. The redesign needed photography with impact, a clear story and provenance, coherent quality signals, and a way for a buyer to imagine living with the print. The reported checkout problems remained separate technical work.
+
+## The proposed experience
+
+### Homepage: let the photograph lead
+
+![Proposed homepage opening with a black-and-white Paul McCartney photograph](assets/phase3-redesign-home-opening-2026-11-05.jpg)
+
+The working homepage opens with the photograph itself, then connects it to numbered editions, provenance and the wider archive. A clear headline and restrained visual system give the image room and make its context easier to follow. The intended buyer benefit is simple: see what the collection offers, understand why it is distinctive, and begin to imagine owning a print.
+
+I reprocessed many of the presentation images to remove the reflections and banding visible in the existing shop. Charcoal, cream and muted gold with editorial typography are intended to suggest a considered gallery rather than a generic catalogue; prominent edition and provenance details give buyers concrete reasons to value a print.
+
+### Thank Your Lucky Stars: make one moment legible
+
+![Proposed Thank Your Lucky Stars page opening with the Beatles performing and its 1963 Birmingham story](assets/phase3-redesign-tyls-story-opening-2026-11-05.jpg)
+
+The next page gives the photographs a specific entry point: the Beatles performing “She Loves You” at the Merseybeat Special in Birmingham on 15 December 1963. It connects the event and its context to the official photographer, Willoughby “Gus” Gullachsen, and his private archive. The design aims to help a fan recognise why these frames matter and what makes the collection distinctive.
+
+These are intended design responses, not measured conversion effects.
+
+## A separate customer problem: framing
+
+Glass can break in courier transit and damage the print it is meant to protect. Frame choices are personal too: the right combination depends on a buyer’s room, wall and taste. I turned those constraints into a positive policy: **“We don’t frame. Deliberately.”**
+
+![Framing Room preview showing a full David Bowie print with wall and frame choices](assets/phase3-redesign-framing-tool-2026-11-05.jpg)
+
+The framing tool is a separate way to help someone picture a print at home. It brings together print selection, wall and frame choices, profiles, widths and mount options, then offers a printable Framer’s Brief to take to a local framer. The work of choosing a frame remains with the buyer and their framer.
 
 ## Three working proposal pages
 
-This proposal contains three working prototype pages for the owner to review. Other navigation destinations are outside this preview; it is not a launched replacement shop.
+These are three owner-facing prototype pages; other navigation destinations are outside the preview. This is not a launched replacement shop. The proposal makes the intended buying experience tangible and discussable before production.
 
-| Page | Open the proposal |
+| Page | Open the working proposal |
 | --- | --- |
 | Homepage | [PickArt Archive homepage](https://tidyweb.github.io/pickart-web-redesign/pickart_home.html) |
 | Thank Your Lucky Stars | [TYLS collection page](https://tidyweb.github.io/pickart-web-redesign/pickart_tyls.html) |
-| Framing Gallery | [Framing visualiser page](https://tidyweb.github.io/pickart-web-redesign/pickart_framing.html) |
-
-The [redesign project repository](https://github.com/TidyWeb/pickart-web-redesign) contains the proposal; the [current PickArt shop](https://www.pickart.co.uk/) is separate. The proposed journey brings photograph, story and choices about living with the print into one experience, giving the owner something tangible to discuss before commissioning production.
+| Framing Gallery | [Framing tool](https://tidyweb.github.io/pickart-web-redesign/pickart_framing.html) |
 
 This work sits within the wider [PickArt project](../README.md).
