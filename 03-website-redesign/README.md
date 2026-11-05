@@ -56,7 +56,7 @@ The site listed products, but did not yet help a visitor value a particular mome
 
 ![Proposed homepage opening with a black-and-white Paul McCartney photograph](assets/phase3-redesign-home-opening-2026-11-05.jpg)
 
-The working homepage opens with the photograph itself, then connects it to numbered editions, provenance and the wider archive. A clear headline and restrained visual system give the image room and make its context easier to follow. The intended buyer benefit is simple: see what the collection offers, understand why it is distinctive, and begin to imagine owning a print.
+The reworked homepage opens with the photograph itself, then connects it to numbered editions, provenance and the wider archive. A clear headline and restrained visual system give the image room and make its context easier to follow. The intended buyer benefit is simple: see what the collection offers, understand why it is distinctive, and begin to imagine owning a print.
 
 I reprocessed many of the presentation images to remove the reflections and banding visible in the existing shop. Charcoal, cream and muted gold with editorial typography are intended to suggest a considered gallery rather than a generic catalogue; prominent edition and provenance details give buyers concrete reasons to value a print.
 
