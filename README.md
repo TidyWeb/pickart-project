@@ -23,15 +23,19 @@ The client understood my logic, and agreed, but he was wedded to the notion that
 
 I suggested he engage in social media.  He wanted me to do that for him, but I could not commit the time required, so I said I would build him a social media posting robot, that would post automatically on his websites behalf.  He did not think it could be done, so I explained my plan, how it would work, and the minimal cost it would take.  He agreed so I built the Media Bible project.
 
+Meta is an idiosyncratic platform in which to operate.  Its publishing APIs were difficult for me to access directly. My cloud robot couldn’t obtain the permissions it needed to publish, so I routed its posts through Publer, a third-party social media management service that connects to Meta through its APIs.  The cloud robot creates the posts - selecting an image from its library, according to a logic that posts key event dates first (significant dates that feature in the biography of the artist or band) - then if no key date is valid, fall back to a carousel system that targets audiophiles, general fans, or people interested in unique decor.  Each group has its own database of copy to combine with the chosen image.
+
 ![Publer overview showing 111 followers (+110), 335K reach and 6.72% engagement rate](assets/evidence/publer-overview-2026-11-05.png)
 
 *Publer overview captured on 5 November 2026: since the Media Bible robot began posting, the account gained 110 followers and reached 335K people, with a 6.72% engagement rate.*
 
 The robot started in May 2026, and has posted up to 18 times per day across Meta platforms, establishing a brand identity.  It has not failed yet.  You can read about the process in  [01 — Media Bible robot](01-media-bible-robot/README.md).
 
-While acknowledging the robot was working, his website was still struggling to close sales.  I repeated my analysis that the website was wrong for what he was offering.  Again he disagreed, it looked fine to him.  So knowing him well enought to estimate the likely success of my proposal - I proposed to him a wager.
+While acknowledging the robot was working, his website was still struggling to close sales.  I repeated my analysis that the website was wrong for what he was offering.  Again he disagreed, it looked fine to him.  So knowing him well enough to estimate the likely success of my proposal - I proposed to him a wager.
 
-I would build and implement a Meta Ad campaign.  We would spend £250 (and set a limit) on an array of 12 ads - that I would make and he could review, approve or deny.  We quickly agreed on the ads for the campaign.  He wanted a focus on his Beatles archive from December 1963 because they are exclusive to Pick Art - and I agreed.  If traffic to his website rose significantly but sales did not increase in a similar proportion - he would agree to the complete redesign - if it rose and sales rose in line - I would refund the ad costs - and if site traffic did not rise - my ad campaign did not work and I would again cover the campaign costs.  Of course, he said yes.
+I would build and implement a Meta Ad campaign.  We would spend £250 (and set a limit) on an array of 12 ads - that I would make and he could review and edit, approve, or deny.  We quickly agreed on the ads for the campaign.  He wanted a focus on his Beatles archive from December 1963 because they are exclusive to Pick Art - and I agreed. If traffic to his website rose significantly but sales did not increase in a similar proportion - he would agree to the complete redesign - if it rose and sales rose in line - I would refund the ad costs - and if site traffic did not rise - my ad campaign did not work and I would again cover the campaign costs.  Of course, he said yes.
+
+
 
 The Meta Ad campaign was a stunning success - you can read about the details in the relevant section.  Suffice to say, the firm that built and hosts his website phoned him to ask what was going on, as they had to move the site to a new server such was the demand.  His sales however remained flat.
 You can read about the Meta ad campaign here: [02 — Meta ad campaign](02-meta-ad-campaign/README.md)
