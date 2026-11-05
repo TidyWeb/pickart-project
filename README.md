@@ -10,8 +10,7 @@ PickArt (pickart.co.uk) wants to be a high-end, music-photography, limited-editi
 
 I researched what the market for exclusive high-end archival prints in this market area was like.  I looked at what other people were doing.  My conclusion was his website was not fit for purpose because it had been built to a standard e-commerce pattern. A template in effect.  This could never work for his offer, so I treated him as a client and I explained it like this.
 
-Consumer goods tend to obey MOSCOW rules:
-Let's look at householders.
+I used the MoSCoW categories as an analogy for household purchasing decisions:
 
 - **MUST HAVES:** A refrigerator, a cooker.
 - **SHOULD HAVES:** A dish-washer, a laundry dryer.
