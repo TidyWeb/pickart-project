@@ -48,8 +48,6 @@ Python programs run on Google Cloud Run and draw on an image library, an event c
 
 Since regular publishing began in **May 2026**, the robot has published **2,838 posts** across PickArt's Facebook and Instagram accounts, with **zero recorded failures**. Publer's member overview records reach of **7,918** and **331 engagements**. A separate account overview shows **335K reach** and follower growth from **1 to 111**—a gain of **110 followers, an 11,000% increase**.
 
-Publer's post insights show reach rates from **34.48% to 93.1%** for several posts. A Beatles post recorded a standout **643.1% reach rate**. Its strong response prompted me to test Beatles material in a Meta advertising campaign, described below.
-
 <br>
 
 ![Publer member overview showing 2,838 posts, reach of 7,918 and 331 engagements; member name obscured](../assets/evidence/publer-members-overview-redacted-2026-11-05.png)
@@ -76,10 +74,14 @@ On **5 November 2026**, Google Cloud forecast **£0.42** for November. At the cu
 
 Once the robot was posting regularly, early interaction remained limited because the social accounts had few followers. I also felt that, although the existing site looked like a competent ecommerce shop, it did not convey what made each high-end print distinctive. The owner was initially unsure about a redesign.
 
-To test how the existing shop responded to paid traffic, I proposed a one-month exploratory Meta campaign with an agreed **£250 budget**. The campaign tested the existing shop, not a deployed redesign. I created Beatles-focused adverts around the group's December 1963 appearance on *Thank Your Lucky Stars*, before their US breakthrough.
+The robot's post insights helped shape that decision. A Beatles post about *All You Need Is Love* recorded a **643.1% reach rate**, while another Beatles post recorded **93.1%**. The response prompted me to propose a one-month exploratory Meta campaign with an agreed **£250 budget**, focused on PickArt's December 1963 Beatles archive. The campaign used the Paul McCartney event photograph from the group's appearance on *Thank Your Lucky Stars* and tested the existing shop, not a deployed redesign.
 
-A captured reporting window of **13 September–31 October 2026** shows 216,692 Meta accounts reached, 404,585 impressions, 21,895 link clicks and 12,319 recorded landing-page views. The owner reported some attempted purchases but little to no sales uplift. Follow-up checks revealed outdated or broken ecommerce components.
+<br>
 
-The experiment helped persuade the owner to proceed with a website redesign. The proposed redesign experience shows the direction. The next phase is redesign work alongside another Meta campaign. I also observed delivery concentrating on early-performing adverts, while some creative received little exposure. For the next experiment, I plan to separate creative tests more deliberately and compare the ideas rather than assume each advert receives equal exposure.
+![First five Publer post insights, including a Beatles post with a 643.1% reach rate](../assets/evidence/publer-post-insights-first-five-2026-11-05.png)
+
+*The first five entries in Publer's post insights, including the Beatles “All You Need Is Love” post at a 643.1% reach rate.*
+
+<br>
 
 *The implementation remains private. Screenshots are included as evidence for this case study, not with permission to reuse them. The photography and prints are not claimed as my work.*

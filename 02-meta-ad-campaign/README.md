@@ -69,6 +69,6 @@ Meta's report for **13 September–31 October 2026** records the following resul
 
 *Reporting-window results capture.*
 
-The campaign brought substantial traffic while sales remained flat, so I won the wager and the owner accepted the need for a redesign.
+The owner reported some attempted purchases but little to no sales uplift. Follow-up checks revealed outdated or broken ecommerce components. With traffic up and sales flat, I won the wager and the owner accepted the need for a redesign.
 
 [Back to the PickArt project overview](../README.md).
