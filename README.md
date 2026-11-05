@@ -35,7 +35,9 @@ While acknowledging the robot was working, his website was still struggling to c
 
 I would build and implement a Meta Ad campaign.  We would spend £250 (and set a limit) on an array of 12 ads - that I would make and he could review and edit, approve, or deny.  We quickly agreed on the ads for the campaign.  He wanted a focus on his Beatles archive from December 1963 because they are exclusive to Pick Art - and I agreed. If traffic to his website rose significantly but sales did not increase in a similar proportion - he would agree to the complete redesign - if it rose and sales rose in line - I would refund the ad costs - and if site traffic did not rise - my ad campaign did not work and I would again cover the campaign costs.  Of course, he said yes.
 
+![Meta Ads Manager advanced preview showing the campaign image ads across placements](assets/evidence/meta-ads-manager-advanced-preview-2026-11-04.png)
 
+*Meta Ads Manager’s advanced preview of the campaign’s image ads across placements.*
 
 The Meta Ad campaign was a stunning success - you can read about the details in the relevant section.  Suffice to say, the firm that built and hosts his website phoned him to ask what was going on, as they had to move the site to a new server such was the demand.  His sales however remained flat.
 You can read about the Meta ad campaign here: [02 — Meta ad campaign](02-meta-ad-campaign/README.md)
