@@ -92,3 +92,5 @@ This is a live prototype, not a replacement shop ready to launch. It makes the i
 ## [The proposed redesign live site](https://tidyweb.github.io/pickart-web-redesign/pickart_home.html)
 
 *This work sits within the wider PickArt project.*
+
+[Back to the PickArt project home](../README.md)

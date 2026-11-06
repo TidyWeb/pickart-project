@@ -73,4 +73,4 @@ The owner reported 'some' attempted purchases and then revealed the entire eco-c
 
 With traffic up and sales flat, I won our wager and the owner accepted the need for a complete redesign.
 
-[Back to the PickArt project overview](../README.md).
+[Next: the website redesign](../03-website-redesign/README.md)

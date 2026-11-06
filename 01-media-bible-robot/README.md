@@ -83,3 +83,5 @@ The robot's post insights helped shape that decision. A Beatles post about *All 
 <br>
 
 *The implementation remains private. Screenshots are included as evidence for this case study, not with permission to reuse them. The photography and prints are not claimed as my work.*
+
+[Next: the Meta advertising campaign](../02-meta-ad-campaign/README.md)
